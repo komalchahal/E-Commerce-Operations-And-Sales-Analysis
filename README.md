@@ -12,7 +12,7 @@ Business Objectives:
 
 Tools:
 Power BI & Power Query→ Data cleaning, transformation (ETL), dashboarding  
-Python → Data auditing, missing value handling, EDA  
+Python → Data auditing, missing value handling, EDA, Visualization 
 DAX→ KPI calculations (AOV, Cancellation Rate etc.)
 
 Key Insights:
